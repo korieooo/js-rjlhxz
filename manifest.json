@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Static things",
+    "description": "Made by Korie#0001 don't remove the credits",
+    "uuid": "cbf04c3f-7454-f205-17bb-34fe2e259697",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "8c1368fa-3b82-d8dc-0989-d398d0817b3c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
